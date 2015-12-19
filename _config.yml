@@ -1,28 +1,40 @@
-name: 'Seishonagon '
 favicon: null
-layout_spectrum: 0.49144961521960795
-typography_spectrum: 0.35783390421420336
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: 'Seishonagon '
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.8352035605348647
-  lightness: 0.5233334896620363
-  saturation: 0.05453828792087734
-  rhythmicContrast: 0.6623690943233669
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.7008593
+  brandStrength: 0.8662727
+  lightness: 0.2271751
+  brandColors:
+    - '#42403B'
+    - '#C7C7C5'
+    - '#B36E4B'
+    - '#E09C77'
+    - '#FDE87F'
+  rhythmicContrast: 0.8415682
+typography_spectrum: 0.7577873
+layout_spectrum: 0.9758323
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
