@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Seishonagon ]]></title>
         <description><![CDATA[Seishonagon ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/seishonagon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 00:27:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 00:27:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seishonagon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/seishonagon/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">4ccc850a-683b-434e-98af-ec139405463d</guid>
+            <pubDate>Sat, 19 Dec 2015 00:27:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Starting my grid?</p>]]></description>
-            <link>undefined0e93423f-507b-4ad8-bab7-36753ac546d1/index.html</link>
+            <link>https://thegrid.ai/seishonagon/0e93423f-507b-4ad8-bab7-36753ac546d1/index.html</link>
             <guid isPermaLink="false">0e93423f-507b-4ad8-bab7-36753ac546d1</guid>
             <pubDate>Sat, 19 Dec 2015 00:27:11 GMT</pubDate>
         </item>
