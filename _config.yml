@@ -1,5 +1,7 @@
-favicon: null
-name: 'Seishonagon '
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -10,31 +12,29 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.7008593
-  brandStrength: 0.8662727
+  saturation: 0.8809524
+  brandStrength: 0.589599
   lightness: 0.2271751
   brandColors:
-    - '#42403B'
-    - '#C7C7C5'
-    - '#B36E4B'
-    - '#E09C77'
-    - '#FDE87F'
-  rhythmicContrast: 0.8415682
+    - '#1E2027'
+    - '#5B5D65'
+    - '#B54A4B'
+    - '#F3E8C6'
+    - '#888891'
+  rhythmicContrast: 0.7838346
 typography_spectrum: 0.7577873
-layout_spectrum: 0.9758323
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 1
+favicon: null
+name: 'Seishonagon '
