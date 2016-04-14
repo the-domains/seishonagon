@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Seishonagon ]]></title>
+        <description><![CDATA[Seishonagon ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 21:01:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fraying at the edges]]></title>
+            <description><![CDATA[<h1>Fraying at the edges</h1>]]></description>
+            <link>undefinedfraying-at-the-edges/index.html</link>
+            <guid isPermaLink="false">e9c55933-d094-4a8e-84d2-6f00e9142dc9</guid>
+            <pubDate>Thu, 14 Apr 2016 21:01:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
