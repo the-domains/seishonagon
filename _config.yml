@@ -1,40 +1,40 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-purpose: []
 color:
-  saturation: 0.8809524
-  brandStrength: 0.589599
+  saturation: 0.5955961
+  brandStrength: 0.9232008
   lightness: 0.2271751
   brandColors:
-    - '#1E2027'
-    - '#5B5D65'
-    - '#B54A4B'
-    - '#F3E8C6'
-    - '#888891'
-  rhythmicContrast: 0.7838346
-typography_spectrum: 0.7577873
+    - '#FFFFFF'
+    - '#070707'
+    - '#535156'
+    - '#0AFFFF'
+    - '#FC4757'
+  rhythmicContrast: 0.7910848
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
-favicon: null
 name: 'Seishonagon '
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5150376
+layout_spectrum: 1
